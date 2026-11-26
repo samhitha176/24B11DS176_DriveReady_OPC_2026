@@ -1,0 +1,11 @@
+question,must_include
+"What is the price of the Goa package?,5000",
+"How much is the Kerala package?,8000",
+"Tell me the price of Manali package.,12000",
+"What is the Jaipur package price?,6000",
+"How much will two people pay for Goa?,10000",
+"Can I book a trip with only 24 hours notice?,48 hours",
+"What details do you need for a booking?,name",
+"Do you provide hotel availability confirmation?,travel team",
+"Are package prices per person?,per person",
+"Do you offer international holiday packages?,travel team",
